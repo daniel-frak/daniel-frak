@@ -4,6 +4,27 @@
 I'm an experienced web developer, focusing on software craftsmanship and good architecture.
 I'm also a big believer in Open Source Software, which is why I share my work on GitHub, as well as on https://codesoapbox.dev, where you can read my articles about software development.
 
+## Preferred Technologies & Tools
+
+### Languages
+![Java](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=f00080&color=222222&labelColor=222222)
+![Typescript](https://img.shields.io/badge/Typescript-informational?style=for-the-badge&logo=TypeScript&logoColor=f00080&color=222222&labelColor=222222)
+
+### Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_boot-informational?style=for-the-badge&logo=spring&logoColor=f00080&color=222222&labelColor=222222)
+![Hibernate](https://img.shields.io/badge/Hibernate-informational?style=for-the-badge&logo=Hibernate&logoColor=f00080&color=222222&labelColor=222222)
+![JUnit](https://img.shields.io/badge/Junit-informational?style=for-the-badge&logo=junit&logoColor=f00080&color=222222&labelColor=222222)
+![Angular](https://img.shields.io/badge/Angular-informational?style=for-the-badge&logo=angular&logoColor=f00080&color=222222&labelColor=222222)
+
+### Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=f00080&color=222222&labelColor=222222)
+![Docker](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=f00080&color=222222&labelColor=222222)
+![Maven](https://img.shields.io/badge/Maven-informational?style=for-the-badge&logo=maven&logoColor=f00080&color=222222&labelColor=222222)
+![Git](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=f00080&color=222222&labelColor=222222)
+![Sonarqube](https://img.shields.io/badge/SonarQube-informational?style=for-the-badge&logo=sonarqube&logoColor=f00080&color=222222&labelColor=222222)
+![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=f00080&color=222222&labelColor=222222)
+![Linux](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=f00080&color=222222&labelColor=222222)
+
 ## Methodologies
 [![Software Craftsmanship](https://img.shields.io/badge/software_craftsmanship-informational?style=for-the-badge&color=222222&labelColor=222222)](https://manifesto.softwarecraftsmanship.org/)
 [![Extreme programming](https://img.shields.io/badge/extreme_programming-informational?style=for-the-badge&color=222222&labelColor=222222)](https://en.wikipedia.org/wiki/Extreme_programming)
