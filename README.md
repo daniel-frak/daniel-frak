@@ -24,6 +24,9 @@ I'm also a big believer in Open Source Software, which is why I share my work on
 ![Sonarqube](https://img.shields.io/badge/SonarQube-informational?style=for-the-badge&logo=sonarqube&logoColor=f00080&color=222222&labelColor=222222)
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=f00080&color=222222&labelColor=222222)
 ![Linux](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=f00080&color=222222&labelColor=222222)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-informational?style=for-the-badge&logo=elasticsearch&logoColor=f00080&color=222222&labelColor=222222)
+![Elastic Stack](https://img.shields.io/badge/Elastic_stack-informational?style=for-the-badge&logo=elastic-stack&logoColor=f00080&color=222222&labelColor=222222)
+![Grafana](https://img.shields.io/badge/Grafana-informational?style=for-the-badge&logo=grafana&logoColor=f00080&color=222222&labelColor=222222)
 
 ## Methodologies
 [![Software Craftsmanship](https://img.shields.io/badge/software_craftsmanship-informational?style=for-the-badge&color=222222&labelColor=222222)](https://manifesto.softwarecraftsmanship.org/)
