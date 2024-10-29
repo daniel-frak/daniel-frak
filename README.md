@@ -28,13 +28,13 @@ I'm also a big believer in Open Source Software, which is why I share my work on
 
 ## Methodologies
 [![Software Craftsmanship](https://img.shields.io/badge/software_craftsmanship-informational?style=for-the-badge&color=222222&labelColor=222222)](https://manifesto.softwarecraftsmanship.org/)
-[![Extreme programming](https://img.shields.io/badge/extreme_programming-informational?style=for-the-badge&color=222222&labelColor=222222)](https://en.wikipedia.org/wiki/Extreme_programming)
 [![Test Driven Development](https://img.shields.io/badge/test_driven_development-informational?style=for-the-badge&color=222222&labelColor=222222)](https://en.wikipedia.org/wiki/Test-driven_development)
 [![Domain Driven Design](https://img.shields.io/badge/domain_driven_design-informational?style=for-the-badge&color=222222&labelColor=222222)](https://martinfowler.com/bliki/DomainDrivenDesign.html)
 [![Agile Software Development](https://img.shields.io/badge/agile_software_development-informational?style=for-the-badge&color=222222&labelColor=222222)](https://agilemanifesto.org/iso/en/manifesto.html)
 [![Continuous Integration](https://img.shields.io/badge/Continuous%20Integration-informational?style=for-the-badge&color=222222&labelColor=222222)](https://en.wikipedia.org/wiki/Continuous_integration)
 [![Continuous Deployment](https://img.shields.io/badge/Continuous%20Deployment-informational?style=for-the-badge&color=222222&labelColor=222222)](https://en.wikipedia.org/wiki/Continuous_deployment)
 [![Feature Flags](https://img.shields.io/badge/Feature%20Flags-informational?style=for-the-badge&color=222222&labelColor=222222)](https://martinfowler.com/articles/feature-toggles.html)
+[![Extreme programming](https://img.shields.io/badge/extreme_programming-informational?style=for-the-badge&color=222222&labelColor=222222)](https://en.wikipedia.org/wiki/Extreme_programming)
 [![Trunk-Based Development](https://img.shields.io/badge/Trunk--Based%20Development-informational?style=for-the-badge&color=222222&labelColor=222222)](https://trunkbaseddevelopment.com/)
 [![Ports & Adapters Architecture](https://img.shields.io/badge/Ports%20&%20Adapters%20Architecture-informational?style=for-the-badge&color=222222&labelColor=222222)](https://codesoapbox.dev/ports-adapters-aka-hexagonal-architecture-explained/)
 [![Shift-Left Testing](https://img.shields.io/badge/Shift--Left%20Testing-informational?style=for-the-badge&color=222222&labelColor=222222)](https://en.wikipedia.org/wiki/Shift-left_testing)
