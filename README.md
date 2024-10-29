@@ -7,14 +7,12 @@ I'm also a big believer in Open Source Software, which is why I share my work on
 ## Preferred Technologies & Tools
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=f00080&color=222222&labelColor=222222)
-![Typescript](https://img.shields.io/badge/Typescript-informational?style=for-the-badge&logo=TypeScript&logoColor=f00080&color=222222&labelColor=222222)
+![Java](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=Java&logoColor=f00080&color=222222&labelColor=222222)
 
 ### Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_boot-informational?style=for-the-badge&logo=spring&logoColor=f00080&color=222222&labelColor=222222)
 ![Hibernate](https://img.shields.io/badge/Hibernate-informational?style=for-the-badge&logo=Hibernate&logoColor=f00080&color=222222&labelColor=222222)
 ![JUnit](https://img.shields.io/badge/Junit-informational?style=for-the-badge&logo=junit&logoColor=f00080&color=222222&labelColor=222222)
-![Angular](https://img.shields.io/badge/Angular-informational?style=for-the-badge&logo=angular&logoColor=f00080&color=222222&labelColor=222222)
 
 ### Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=f00080&color=222222&labelColor=222222)
@@ -35,6 +33,11 @@ I'm also a big believer in Open Source Software, which is why I share my work on
 [![Domain Driven Design](https://img.shields.io/badge/domain_driven_design-informational?style=for-the-badge&color=222222&labelColor=222222)](https://martinfowler.com/bliki/DomainDrivenDesign.html)
 [![Agile Software Development](https://img.shields.io/badge/agile_software_development-informational?style=for-the-badge&color=222222&labelColor=222222)](https://agilemanifesto.org/iso/en/manifesto.html)
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-informational?style=for-the-badge&color=222222&labelColor=222222)](https://en.wikipedia.org/wiki/CI/CD)
+[![Trunk-Based Development](https://img.shields.io/badge/Trunk--Based%20Development-informational?style=for-the-badge&color=222222&labelColor=222222)](https://trunkbaseddevelopment.com/)
+[![Ports & Adapters Architecture](https://img.shields.io/badge/Ports%20&%20Adapters%20Architecture-informational?style=for-the-badge&color=222222&labelColor=222222)](https://codesoapbox.dev/ports-adapters-aka-hexagonal-architecture-explained/)
+[![Shift-Left Testing](https://img.shields.io/badge/Shift--Left%20Testing-informational?style=for-the-badge&color=222222&labelColor=222222)](https://en.wikipedia.org/wiki/Shift-left_testing)
+[![Contract Testing](https://img.shields.io/badge/Contract%20Testing-informational?style=for-the-badge&color=222222&labelColor=222222)](https://martinfowler.com/bliki/ContractTest.html)
+[![Mutation Testing](https://img.shields.io/badge/Mutation%20Testing-informational?style=for-the-badge&color=222222&labelColor=222222)](https://codesoapbox.dev/mutation-testing-by-example-junit-5-maven-and-pitest/)
 
 ## GitHub Stats based on public contributions
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=daniel-frak&layout=compact&title_color=f00080ff&icon_color=f00080ff&text_color=fff&bg_color=222222ff)](https://github.com/anuraghazra/github-readme-stats)
