@@ -44,7 +44,6 @@ I'm also a big believer in Open Source Software, which is why I share my work on
 [![The Twelve-Factor App](https://img.shields.io/badge/The%20Twelve--Factor%20App-informational?style=for-the-badge&color=222222&labelColor=222222)](https://12factor.net/)
 
 ## GitHub Stats based on public contributions
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=daniel-frak&layout=compact&title_color=f00080ff&icon_color=f00080ff&text_color=fff&bg_color=222222ff)](https://github.com/anuraghazra/github-readme-stats)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=daniel-frak&show_icons=true&title_color=f00080ff&icon_color=f00080ff&text_color=fff&bg_color=222222ff&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Favourite projects I work on
