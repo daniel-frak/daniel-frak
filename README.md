@@ -40,6 +40,8 @@ I'm also a big believer in Open Source Software, which is why I share my work on
 [![Shift-Left Testing](https://img.shields.io/badge/Shift--Left%20Testing-informational?style=for-the-badge&color=222222&labelColor=222222)](https://en.wikipedia.org/wiki/Shift-left_testing)
 [![Contract Testing](https://img.shields.io/badge/Contract%20Testing-informational?style=for-the-badge&color=222222&labelColor=222222)](https://martinfowler.com/bliki/ContractTest.html)
 [![Mutation Testing](https://img.shields.io/badge/Mutation%20Testing-informational?style=for-the-badge&color=222222&labelColor=222222)](https://codesoapbox.dev/mutation-testing-by-example-junit-5-maven-and-pitest/)
+[![12 Principles of Agile](https://img.shields.io/badge/12%20Principles%20of%20Agile-informational?style=for-the-badge&color=222222&labelColor=222222)](https://agilemanifesto.org/)
+[![The Twelve-Factor App](https://img.shields.io/badge/The%20Twelve--Factor%20App-informational?style=for-the-badge&color=222222&labelColor=222222)](https://12factor.net/)
 
 ## GitHub Stats based on public contributions
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=daniel-frak&layout=compact&title_color=f00080ff&icon_color=f00080ff&text_color=fff&bg_color=222222ff)](https://github.com/anuraghazra/github-readme-stats)
