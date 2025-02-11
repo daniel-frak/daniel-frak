@@ -48,8 +48,10 @@ I'm also a big believer in Open Source Software, which is why I share my work on
 
 ## Favourite projects I work on
 
-[![dummy4j](https://github-readme-stats.vercel.app/api/pin/?username=daniel-frak&repo=dummy4j&title_color=ffffff&text_color=fff&bg_color=222222)](https://github.com/daniel-frak/dummy4j)
-[![keycloak-user-migration](https://github-readme-stats.vercel.app/api/pin/?username=daniel-frak&repo=keycloak-user-migration&title_color=ffffff&text_color=fff&bg_color=222222)](https://github.com/daniel-frak/keycloak-user-migration)
+[![keycloak-user-migration](https://github-readme-stats.vercel.app/api/pin/?username=daniel-frak&repo=keycloak-user-migration&title_color=ffffff&text_color=fff&bg_color=222222)](https://github.com/daniel-frak/keycloak-user-migration)  
+[![backity](https://github-readme-stats.vercel.app/api/pin/?username=daniel-frak&repo=backity&title_color=ffffff&text_color=fff&bg_color=222222)](https://github.com/daniel-frak/backity)  
+[![dummy4j](https://github-readme-stats.vercel.app/api/pin/?username=daniel-frak&repo=dummy4j&title_color=ffffff&text_color=fff&bg_color=222222)](https://github.com/daniel-frak/dummy4j)  
+[![Spring Boot AI Proof-of-Concept](https://github-readme-stats.vercel.app/api/pin/?username=daniel-frak&repo=spring-ai-poc&title_color=ffffff&text_color=fff&bg_color=222222)](https://github.com/daniel-frak/spring-ai-poc)
 
 ## Find me on
 [![Code Soapbox](https://img.shields.io/badge/code_soapbox-informational?style=for-the-badge&logo=WordPress&logoColor=f00080&color=222222&labelColor=222222)](https://codesoapbox.dev/)
